@@ -2,7 +2,10 @@
 A list of awesome AngularJs services, directives, utilities and resources.
 
 ## Guides
-* [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
+* Style Guide - [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 
 ## Charts 
-* [stewones/angular-morris-chart](https://github.com/stewones/angular-morris-chart)
+* Morris charts - [stewones/angular-morris-chart](https://github.com/stewones/angular-morris-chart)
+
+## Form Components
+* Date time picker - [dalelotts/angular-bootstrap-datetimepicker] (https://github.com/dalelotts/angular-date-time-input)
