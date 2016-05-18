@@ -9,3 +9,4 @@ A list of awesome AngularJs services, directives, utilities and resources.
 
 ## Form Component 
 * Date picker - [dalelotts/angular-bootstrap-datetimepicker] (https://github.com/dalelotts/angular-bootstrap-datetimepicker)
+* Date validator / formatter - [dalelotts/angular-date-time-input](https://github.com/dalelotts/angular-date-time-input)
