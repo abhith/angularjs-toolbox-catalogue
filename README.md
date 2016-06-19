@@ -12,6 +12,7 @@ A list of awesome AngularJs services, directives, utilities and resources.
 * Date picker - [dalelotts/angular-bootstrap-datetimepicker] (https://github.com/dalelotts/angular-bootstrap-datetimepicker)
 * Date validator / formatter - [dalelotts/angular-date-time-input](https://github.com/dalelotts/angular-date-time-input)
 * Multi-Select - [isteven/angular-multi-select] (https://github.com/isteven/angular-multi-select)
+* Validations - [ghiscoding/angular-validation] (https://github.com/ghiscoding/angular-validation)
 
 ## Collections
 * Various Components - [Abhith/JavaScriptUtils] (https://github.com/Abhith/JavaScriptUtils)
