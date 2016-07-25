@@ -18,3 +18,7 @@ A list of awesome AngularJs services, directives, utilities and resources.
 
 ## Collections
 * Various Components - [Abhith/JavaScriptUtils] (https://github.com/Abhith/JavaScriptUtils)
+
+## Modules
+### Storage
+* ngStorage - [gsklee/ngStorage](https://github.com/gsklee/ngStorage)
