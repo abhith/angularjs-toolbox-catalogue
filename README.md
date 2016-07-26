@@ -5,6 +5,7 @@ A list of awesome AngularJs services, directives, utilities and resources.
 * Style Guide - [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 * Authentication - [tjoudeh/AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)
 * [Internationalization of AngularJS Applications](https://scotch.io/tutorials/internationalization-of-angularjs-applications)
+* [Using the AngularJS $logProvider](http://realeyes.com/blog/2014/04/using-the-angularjs-logprovider/)
 
 ## Charts 
 * Morris charts - [stewones/angular-morris-chart](https://github.com/stewones/angular-morris-chart)
