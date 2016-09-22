@@ -26,5 +26,5 @@ A list of awesome AngularJs services, directives, utilities and resources.
 * ngStorage - [gsklee/ngStorage](https://github.com/gsklee/ngStorage)
 
 ### Animation
-* [rpocklin/angular-scroll-animate](https://github.com/rpocklin/angular-scroll-animate)
+* [rpocklin/angular-scroll-animate](https://github.com/rpocklin/angular-scroll-animate) : An Angular.js directive which allows you to perform any javascript actions (in the controller, or on the element) when an element is scrolled into, or out of, the users viewport, without any other dependencies.
 
