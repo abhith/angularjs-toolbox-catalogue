@@ -31,3 +31,5 @@ A list of awesome AngularJs services, directives, utilities and resources.
 ### SignalR
 * [JustMaier/angular-signalr-hub](https://github.com/JustMaier/angular-signalr-hub) : Handy AngularJS factory for SignalR Hubs
 
+### Images
+* [compact/angular-bootstrap-lightbox](https://github.com/compact/angular-bootstrap-lightbox) : An AngularJS lightbox built using UI Bootstrap Modal.
