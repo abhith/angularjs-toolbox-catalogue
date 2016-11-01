@@ -7,6 +7,7 @@ A list of awesome AngularJs services, directives, utilities and resources.
 * Multi-Select - [isteven/angular-multi-select] (https://github.com/isteven/angular-multi-select)
 * Validations - [ghiscoding/angular-validation] (https://github.com/ghiscoding/angular-validation)
 * Date Range Picker - [fragaria/angular-daterangepicker](https://github.com/fragaria/angular-daterangepicker)
+* [vitalets/angular-xeditable](https://github.com/vitalets/angular-xeditable) : Edit in place for AngularJS 
 
 ## Guides
 * Style Guide - [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
